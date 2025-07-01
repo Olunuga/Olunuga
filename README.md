@@ -1,5 +1,5 @@
 # 💫 About Me:
-# About Me:<br><br>🚀 **I'm currently working on**<br>- Building production-ready scalable mobile applications<br><br>🌱 **I'm currently learning**<br>- AI/ML integration in mobile applications<br>- Modern iOS testing strategies and automation frameworks<br><br>💬 **Ask me about**<br>- iOS development with Swift, SwiftUI, and MVVM architecture patterns<br>- Leading cross-functional teams and scaling fintech/healthcare applications<br><br>⚡ **Fun fact**<br>- I'm growing a beard<br>- I also enjoy photography
+### About Me:<br><br>🚀 **I'm currently working on**<br>- Building production-ready scalable mobile applications<br><br>🌱 **I'm currently learning**<br>- AI/ML integration in mobile applications<br>- Modern iOS testing strategies and automation frameworks<br><br>💬 **Ask me about**<br>- iOS development with Swift, SwiftUI, and MVVM architecture patterns<br>- Leading cross-functional teams and scaling fintech/healthcare applications<br><br>⚡ **Fun fact**<br>- I'm growing a beard<br>- I also enjoy photography
 
 
 ## 🌐 Socials:
